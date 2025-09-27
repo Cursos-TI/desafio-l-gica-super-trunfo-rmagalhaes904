@@ -125,6 +125,7 @@ int main(){
         printf("Resultado: Carta 2 (%c) Venceu!", C2estado);
     }
 
+    //Codigo Finalizado!!
 
     return 0;
 
