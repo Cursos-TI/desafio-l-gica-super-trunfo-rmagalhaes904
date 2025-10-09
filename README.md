@@ -49,8 +49,8 @@ No nível Mestre, o desafio se intensifica com a adição de funcionalidades ava
 - **Menus Dinâmicos:** Os menus serão dinâmicos, permitindo uma navegação fluida entre as opções de comparação.
 
 ### 🚩 Novas Funcionalidades:
-- **Comparação de Dois Atributos:** O sistema comparará dois atributos simultaneamente para determinar a carta vencedora.
-- **Lógica Avançada:** Uso de operadores ternários e lógica aninhada para lidar com comparações complexas.
+- **Comparação tos simultaneamente para determinar a carta vencedora.
+- **Lógica Avançada:** Uso de operadores ternários e lógica aninhada para lidar com comparaçõede Dois Atributos:** O sistema comparará dois atribus complexas.
 - **Empates:** O sistema será capaz de lidar com empates, exibindo mensagens apropriadas.
 - **Exibição de Resultados:** Exibição dos resultados das comparações de forma clara e interativa.
 
