@@ -115,14 +115,14 @@ int main(){
 
     //Mostrando os atributos escolhidos de cada carta
     printf("Comparação das cartas (Atributo: População):\n");
-    printf("Carta 1 - %c: %d.\n", C1estado, C1populacao);
-    printf("Carta 2 - %c: %d.\n", C2estado, C2populacao);
+    printf("Carta 1 - %s: %d.\n", C1nomecidade, C1populacao);
+    printf("Carta 2 - %s: %d.\n", C2nomecidade, C2populacao);
 
     //Fazendo a comparação de apenas um atributo das cartas e mostrando qual a carta vencedora baseado na comparação o atributo "População"
     if (C1populacao > C2populacao){ 
-        printf("Resultado: Carta 1 (%c) Venceu!", C1estado);
+        printf("Resultado: Carta 1 (%s) Venceu!", C1nomecidade);
     }else{
-        printf("Resultado: Carta 2 (%c) Venceu!", C2estado);
+        printf("Resultado: Carta 2 (%s) Venceu!", C2nomecidade);
     }
 
     //Codigo Finalizado!!
