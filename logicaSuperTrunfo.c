@@ -18,10 +18,10 @@ int main(){
     scanf("%c", &C1estado);
     
     printf("Defina o código unico desta carta com a letra escolhida do estado, e um numero de 01 a 04. Ex: A01, A02\n");
-    scanf("%s", &C1codigocarta);
+    scanf("%s", C1codigocarta);
 
     printf("Digite o nome da cidade: \n");
-    scanf("%s", &C1nomecidade);
+    scanf("%s", C1nomecidade);
 
     printf("Digite a população da cidade: \n");
     scanf("%d", &C1populacao);
@@ -52,10 +52,10 @@ int main(){
     scanf(" %c", &C2estado);
     
     printf("Defina o código unico desta carta com a letra escolhida do estado, e um numero de 01 a 04. Ex: A01, A02\n");
-    scanf("%s", &C2codigocarta);
+    scanf("%s", C2codigocarta);
 
     printf("Digite o nome da cidade: \n");
-    scanf("%s", &C2nomecidade);
+    scanf("%s", C2nomecidade);
 
     printf("Digite a população da cidade: \n");
     scanf("%d", &C2populacao);
